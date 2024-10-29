@@ -2,9 +2,9 @@
 /* CSS Document */
 
 body {
-  background-color: blue;
+  background-color: white;
 	color: blue;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
 h1 {
-	
+	text-align: center;
